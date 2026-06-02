@@ -1,4 +1,6 @@
-<img align="center" width="480" height="360" alt="giphy" src="https://github.com/user-attachments/assets/e9fec614-4839-4eec-afbb-14f33431a106" />
+ <div align="center">
+<img width="480" height="360" alt="giphy" src="https://github.com/user-attachments/assets/e9fec614-4839-4eec-afbb-14f33431a106" />
+
 # 💫 Hi 👋, I'm Narayan Kumar Pandey
 **A passionate Cloud Engineer || DevOps Engineer ||
 
